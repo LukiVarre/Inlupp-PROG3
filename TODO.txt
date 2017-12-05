@@ -1,0 +1,24 @@
+TODO:
+	1: Vi vill skapa en fönster
+
+	2: Vi vill kunna rita objekt i fönstret
+		2a: En spel karaktär
+		2b: En bakgrund
+		2c: Tiles
+		2d: Möjligtviss fiende karaktärer eller fällor
+
+	3: Vi vill kunna kontrollera karaktären
+		3a: Gå vänster/höger
+		3b: Hoppa (lägg till gravitation) 
+		3c: attackera (Skjuta/slå)
+
+	4: Vi vill ha kollisions hantering mellan karaktärer & tiles
+
+	5: Vi vill ha en kamera som följer spelaren
+		5a: Implementera en parallax effekt för bakgrunden
+
+	6: Vi vill ha ett ljud
+		6a: Musik
+		6b: Ljudeffekter
+		
+Exempel på Relativ Sökväg: ../Content/Backrgounds/bg.png
