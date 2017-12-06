@@ -1,7 +1,11 @@
-#include <iostream>
+#include<SDL.h>
+#include <string>
+#include "GameWindow.cpp"
 
+using namespace std;
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int main(int argc, char *argv[]) {
+    GameWindow *gw = new GameWindow();
+
     return 0;
 }

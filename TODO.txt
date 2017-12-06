@@ -21,4 +21,13 @@ TODO:
 		6a: Musik
 		6b: Ljudeffekter
 		
+Main
+Window
+Tile
+Character:
+	PlayerCharacter
+	EnemyCharacter
+Camera
+
+		
 Exempel på Relativ Sökväg: ../Content/Backrgounds/bg.png
