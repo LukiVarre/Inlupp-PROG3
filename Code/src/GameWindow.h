@@ -6,13 +6,13 @@
 
 class GameWindow {
 public:
-    GameWindow();
+    GameWindow(int width, int height);
 
     ~GameWindow();
 
     SDL_Window *getWindow() const;
 
-    SDL_Renderer *getGameRenderer() const;
+    SDL_Renderer *getRenderer() const;
 
 
 private:
