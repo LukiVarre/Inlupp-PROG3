@@ -14,7 +14,6 @@ public:
 
     SDL_Renderer *getRenderer() const;
 
-
 private:
     SDL_Window *gameWindow;
     SDL_Renderer *gameRenderer;
